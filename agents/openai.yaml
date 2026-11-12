@@ -1,0 +1,4 @@
+interface:
+  display_name: "CV Preprocess Explore"
+  short_description: "Explore and score image preprocessing for model input"
+  default_prompt: "Use $cv-preprocess-explore to find the best way to clean the photos in ./images for our model."
